@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Ashish",
+    "address": "Vizag",
+    "email": "ashish@gmail.com",
+    "number": "9160503595"
+  },
+  {
+    "name": "goyi",
+    "address": "kakinada",
+    "email": "goyi@gmail.com",
+    "number": "8341177686"
+  },
+  {
+    "name": "prasad",
+    "address": "rajamundry",
+    "email": "prasad@gmail.com",
+    "number": "8374577189"
+  },
+  {
+    "name": "GeethChandra",
+    "address": "Ongole",
+    "email": "geeth@gmail.com",
+    "number": "9876543210"
+  },
+  {
+    "name": "govind",
+    "address": "kakinada",
+    "email": "goyi@gmail.com",
+    "number": "8341177686"
+  },
+  {
+    "name": "goyi",
+    "address": "kakinada",
+    "email": "goyi@gmail.com",
+    "number": "8341177686"
+  },
+  {
+    "name": "GeethChandra",
+    "address": "Ongole",
+    "email": "geeth@gmail.com",
+    "number": "9876543210"
+  }
+]
